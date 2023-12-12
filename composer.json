@@ -1,0 +1,18 @@
+{
+    "name": "uap/api",
+    "description": "Rest API",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Nandang",
+            "email": "nndg.ace3@gmail.com"
+        }
+    ],
+    "require": {
+        "chriskacerguis/codeigniter-restserver": "^3.1",
+        "phpmailer/phpmailer": "^6.7",
+        "phpoffice/phpspreadsheet": "^1.19"
+    },
+    "version": "dev-master"
+}
